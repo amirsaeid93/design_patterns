@@ -1,0 +1,14 @@
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\abstracts\Button.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\abstracts\Checkbox.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\abstracts\TextField.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\abstracts\UIElement.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\abstracts\UIFactory.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\styleA\ButtonA.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\styleA\CheckboxA.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\styleA\StyleAFactory.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\styleA\TextFieldA.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\styleB\ButtonB.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\styleB\CheckboxB.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\styleB\StyleBFactory.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\styleB\TextFieldB.java
+C:\Users\saidt\Documents\design_patterns\AbstractFactory\src\main\java\ui\UIApp.java
