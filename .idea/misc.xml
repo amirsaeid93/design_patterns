@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/AbstractFactory/pom.xml" />
         <option value="$PROJECT_DIR$/Composite/pom.xml" />
+        <option value="$PROJECT_DIR$/Observer/pom.xml" />
+        <option value="$PROJECT_DIR$/Singleton/pom.xml" />
       </list>
     </option>
   </component>

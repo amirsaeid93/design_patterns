@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Composite" />
         <module name="AbstractFactory" />
+        <module name="Singleton" />
+        <module name="Observer" />
       </profile>
     </annotationProcessing>
   </component>
