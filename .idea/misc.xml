@@ -18,6 +18,7 @@
         <option value="$PROJECT_DIR$/Visitor/pom.xml" />
         <option value="$PROJECT_DIR$/Builder/pom.xml" />
         <option value="$PROJECT_DIR$/Adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/Bridge/pom.xml" />
       </list>
     </option>
   </component>
