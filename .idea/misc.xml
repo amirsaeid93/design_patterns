@@ -22,6 +22,7 @@
         <option value="$PROJECT_DIR$/Flyweight/pom.xml" />
         <option value="$PROJECT_DIR$/Prototype/pom.xml" />
         <option value="$PROJECT_DIR$/Mediator/pom.xml" />
+        <option value="$PROJECT_DIR$/Iterator/pom.xml" />
       </list>
     </option>
   </component>
