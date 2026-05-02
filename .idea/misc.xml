@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/Prototype/pom.xml" />
         <option value="$PROJECT_DIR$/Mediator/pom.xml" />
         <option value="$PROJECT_DIR$/Iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/Facade/pom.xml" />
       </list>
     </option>
   </component>
